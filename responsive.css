@@ -67,6 +67,10 @@
     width: 100%;
   }
 
+  .sub input{
+    border-radius: 0px;
+  }
+
 }
 
 
